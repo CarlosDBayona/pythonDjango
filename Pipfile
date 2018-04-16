@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 requests = "*"
 django = "==2.0.4"
+whitenoise = "*"
 
 [dev-packages]
 

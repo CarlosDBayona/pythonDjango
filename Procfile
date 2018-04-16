@@ -1,0 +1,1 @@
+web: gunicorn IOTsemillero.wsgi --log-file -
