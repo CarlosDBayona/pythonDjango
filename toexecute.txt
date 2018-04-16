@@ -1,1 +1,6 @@
+//Instalar pipenv primero
+pip install pipenv
+//Instalar dependencias
+pipenv install --dev
+//Ejecutar el Servidor
 pipenv run python manage.py runserver
